@@ -28,7 +28,6 @@ Read the full article: [Building Your Own Powerful Real-Time Chat Application Fr
 1. Clone the repository:
    ```bash
    git clone https://github.com/ehsanaslani/realtime-chat.git
-   cd hpkv-examples/apps/hpkv-live-chat
    ```
 
 2. Install dependencies:
